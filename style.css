@@ -1,0 +1,29 @@
+body{
+background-size:cover;
+}
+
+.header{
+font-size: 25px;
+width:100%;
+margin:0px;
+}
+
+#start{
+    font-size: 18px;
+}
+
+#status, #objects_detected{
+font-size: 18px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom:0;
+    background-color: gray;
+    color:chocolate;
+    width:100%;
+    text-align: center;
+}
+
+#objectname{
+    color:azure;
+}
